@@ -1,0 +1,8 @@
+- category 7
+- radiation escaped during a partial meltdown due to a tsunami
+- walls build for tsunami's up to 5.6m, the one that came was 17m
+- they covered up a previous safety report that said it wasn't good
+- protests and massive impacts into the economic and social respect for nuclear power
+- fear and panic broke out in the public due to the lack of information and previous incidents with similar incidents like Chernobyl
+- 198.3 billion dollars for cleanup
+- decontamination still going into the future
