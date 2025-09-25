@@ -1,0 +1,219 @@
+{
+  "main": {
+    "id": "1688c9b0626e7e1c",
+    "type": "split",
+    "children": [
+      {
+        "id": "b3399c491b4692e8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ec5dbb8c0c051a3c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "assignments/cooking.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "cooking"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0903e59a78728622",
+    "type": "split",
+    "children": [
+      {
+        "id": "d6016550e2f766b6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "be874d2b44f145df",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "c4bb917db89ef3d8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": " ",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "1414c413d201edd4",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "878b9f033b13c735",
+    "type": "split",
+    "children": [
+      {
+        "id": "c088d51240e040c6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e9f3871eb14f67ca",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "assignments/hsie.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for hsie"
+            }
+          },
+          {
+            "id": "1066a06625d57429",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "normal note/english/soundtrack of a revolution questions.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from soundtrack of a revolution questions"
+            }
+          },
+          {
+            "id": "16f3d83c08545d47",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "3f158022f838982e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "normal note/english/soundtrack of a revolution questions.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of soundtrack of a revolution questions"
+            }
+          },
+          {
+            "id": "265d2e419ccbcd0b",
+            "type": "leaf",
+            "state": {
+              "type": "quiet-outline",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "quiet-outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "workspaces:Manage workspace layouts": false,
+      "omnisearch:Omnisearch": false,
+      "terminal:Open terminal": false
+    }
+  },
+  "active": "c4bb917db89ef3d8",
+  "lastOpenFiles": [
+    "assignments/ict.md",
+    "assignments/math.md",
+    "assignments/cooking.md",
+    "normal note/math/Untitled.md",
+    "normal note/science/atom bomb.md",
+    "normal note/science/atom bomb",
+    "assignments/hsie.md",
+    "normal note/pe/\"dont do drugs kids\" again..md",
+    "normal note/english/peaceful protests (soundtrack of a revolution).md",
+    "normal note/english/soundtrack of a revolution questions.md",
+    "normal note/science/fukashima.md",
+    "normal note/english/Protest Poetry.md",
+    "normal note/science/medical uses of radiation.md",
+    "normal note/science/nuclear energy.md",
+    "normal note/english/protest.md",
+    "normal note/math/gradients.md",
+    "assignments/music.md",
+    "assignments/english-reflection.md",
+    "assignments/english.md",
+    "assignments/science.md",
+    "assignments/Untitled",
+    "Welcome.md",
+    "normal note/pe",
+    "normal note/hsie",
+    "normal note/cooking",
+    "normal note/ict",
+    "normal note/music",
+    "normal note/math",
+    "normal note/science",
+    "normal note/english"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "cssTheme": "Encore",
+  "accentColor": "#9900ff",
+  "enabledCssSnippets": [
+    "Colored Sidebar Items",
+    "styles"
+  ],
+  "theme": "obsidian",
+  "nativeMenus": true
+}
