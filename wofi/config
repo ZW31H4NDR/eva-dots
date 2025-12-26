@@ -1,0 +1,4 @@
+show-icons=true
+prompt=Menu:
+# For drun mode
+drun-display-format={icon} {name}

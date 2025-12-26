@@ -1,0 +1,21 @@
+window {
+    background-color: #15151588;
+    border-radius: 10px;
+    border: 1.5px solid #fefefe;
+    width: 55%;
+}
+#input {
+    margin: 5px;
+    border: 1px solid #14141422;
+}
+#entry:selected {
+    background-color: #18181822;
+    background: linear-gradient(270deg, #303030, #797979);
+}
+#scroll {
+  background-color: #0f0f0f88;
+}
+#entry {
+  background-color: #14141422;
+}
+
